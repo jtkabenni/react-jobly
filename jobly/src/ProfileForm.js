@@ -63,7 +63,7 @@ const ProfileForm = ({ update }) => {
   return (
     <Card>
       <CardBody>
-        <CardTitle>Add an Item</CardTitle>
+        <CardTitle>Update profile</CardTitle>
         <form onSubmit={handleSubmit}>
           <ListGroup>
             <label htmlFor="username">Username</label>
